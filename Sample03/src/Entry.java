@@ -10,6 +10,7 @@ public class Entry {
 		String result;
 		
 		result = t1.Say();
+		//test
 		
 		System.out.println(result);
 		
